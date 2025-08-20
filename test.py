@@ -1,1 +1,1 @@
-print {"WELCOME To EAGLE VISION"}
+print("WELCOME To EAGLE VISION")
